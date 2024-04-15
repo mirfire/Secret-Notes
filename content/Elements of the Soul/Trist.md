@@ -1,4 +1,4 @@
-#Principle/Moth #Principle/Moon #Element/Trist
+#Element/Trist #Principle/Moth #Principle/Moon
 
 > The change and the longing. *One of the nine parts of the human soul.*
 
