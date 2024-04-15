@@ -1,3 +1,9 @@
+---
+title: Index
+aliases:
+  - index
+---
+
 This is a website compiling the notes from a custom Secret Histories TTRPG Campaign.
 
 - [[Character]] : My Character
