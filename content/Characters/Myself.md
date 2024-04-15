@@ -3,6 +3,8 @@
 * [[Kull]]: The strongest part of my soul
 * [[Wist]]: The awakening part of my soul
 * [[Setre]]: The awakening part of my soul
+* [[Kull]]: From my link to [[Valitri's Character]]
+
 ## My Skills
 
 * [[Horns and Ivories]]
