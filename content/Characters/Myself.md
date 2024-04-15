@@ -1,12 +1,13 @@
-# Parts of my Soul
+## Parts of my Soul
+
 * [[Kull]]: The strongest part of my soul
 * [[Wist]]: The awakening part of my soul
 * [[Setre]]: The awakening part of my soul
-# My Skills
-* [[Solutions & Separations]]
-* [[Rites of the Roots]]
+## My Skills
 
-# My Life
+* [[Horns and Ivories]]
+* [[Inks of Containment]]
+## My Past Life
 
 **Kull** : I was driven by instinct. I saw death. I was a soldier. I've earned a sixpence.
 
@@ -14,10 +15,10 @@
 
 **Setre** : I tried to explore my past, make amends. Some of it was kept, some of it was sold. None of it made me rich.
 
-STRONGEST : KULL
-AWAKENING : WIST
-LINGERING : SETRE
+## My New Life
 
-WHAT WAS LEFT OF AN OLD WORLD : KULL *An old, primal instinct.*
+We are an Ethos Synod.
+## My Connections
 
-We are an Ethos Synod
+I am irrevocably linked to [[Valitri's Character]] and [[Vonte's Character]]
+ 

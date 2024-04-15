@@ -3,7 +3,7 @@ title: Index
 ---
 This is a website compiling the notes from a custom Secret Histories TTRPG Campaign.
 
-- [[Character]] : My Character
+- [[Myself]] : My Character
 ## Elements of the Soul
 - [[Health]]
 - [[Phost]]
