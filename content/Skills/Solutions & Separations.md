@@ -1,0 +1,1 @@
+> The surgeon plies the knife and the mason plies the chisel. There are subtler tools than either.
