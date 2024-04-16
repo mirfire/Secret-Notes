@@ -28,5 +28,5 @@ I am part of the Ethos Synod. We aspire to something greater.
 
 ## My Connections
 
-I am irrevocably linked to [[Valitri's Character]] and [[Vonte's Character]]
+I am irrevocably linked to [[Valitri's Character]] and [[Vonte's Character]].
  
