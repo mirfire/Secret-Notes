@@ -1,3 +1,8 @@
+---
+tags:
+  - Currency
+---
+
 > A polite way of saying it's *fucking shite*.
 
 It is composed of the following :

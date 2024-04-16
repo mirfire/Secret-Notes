@@ -1,9 +1,13 @@
 ---
-title: Index
+title: Home
 ---
+
 This is a website compiling the notes from a custom Secret Histories TTRPG Campaign.
 
+## Characters
+
 - [[Myself]] : My Character
+- [[Characters/]]
 
 ## Elements of the Soul
 

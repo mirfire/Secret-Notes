@@ -1,4 +1,9 @@
-## Parts of my Soul
+---
+tags:
+  - Player/Vana
+---
+
+## Parts of My Soul
 
 * [[Kull]]: The strongest part of my soul
 * [[Setre]]: The awakening part of my soul

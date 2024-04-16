@@ -1,4 +1,8 @@
-#Principle/Scale #Principle/Knock
+---
+tags:
+  - Principle/Knock
+  - Principle/Scale
+---
 
 > The Hunter, the Way, and their memories.
 

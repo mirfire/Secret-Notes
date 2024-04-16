@@ -1,6 +1,8 @@
-#Wisdom #Wisdom/Illumination
+---
+tags:
+  - "#Wisdom"
+  - Wisdom/Illumination
+---
 
-![[w.illumination.png|inlL]]
-
-> Illuminates purify the self and its surroundings. Eventually, they often cease to see any difference between the two.
-
+> Illuminates purify the self and its surroundings. Eventually, they often cease to see any difference between the two. 
+![[w.illumination.png|inlR]] 
