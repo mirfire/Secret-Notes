@@ -20,7 +20,7 @@ tags:
 
 **[[Wist]]** : I tried to put my past away. Forget what I have seen, what I have felt. But the memories stayed. I earned a threepence.
 
-**[[Setre]]** : I tried to explore my past, make amends. Some of it was kept, some of it was sold. None of it made me rich. I earned a sixpence.l
+**[[Setre]]** : I tried to explore my past, make amends. Some of it was kept, some of it was sold. None of it made me rich. I earned a sixpence.
 
 ## My New Life
 
