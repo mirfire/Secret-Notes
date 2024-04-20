@@ -6,6 +6,7 @@ tags:
 <div style="float:right">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg"  width=250/>
 </div>
+
 ## Who Am I ?
 
 I am René, born in Metz, 
