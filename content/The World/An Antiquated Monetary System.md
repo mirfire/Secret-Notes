@@ -1,6 +1,16 @@
 ---
 tags:
   - Currency
+aliases:
+  - Penny
+  - Twopence
+  - Threepence
+  - Sixpence
+  - Shilling
+  - Florin
+  - Crown
+  - Half Crown
+  - Pound
 ---
 
 > A polite way of saying it's *fucking shite*.

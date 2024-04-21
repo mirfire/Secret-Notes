@@ -1,6 +1,6 @@
 ---
 tags:
-  - Memory/Pleasant
+  - Memory/Revelation
   - Principle/Nectar
   - Principle/Grail
 ---
@@ -8,3 +8,4 @@ tags:
 ## Obtained by
 
 - Dreaming with [[Mettle]]
+- Dreaming with [[Phost]]

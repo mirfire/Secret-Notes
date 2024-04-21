@@ -10,3 +10,8 @@ tags:
 > The primordial evil instinct. What is left of an old world. *One of the eleven parts of the human soul.*
 
 **[[Scale]]** 2, **[[Winter]]** 1
+
+## Uses
+
+### Work
+- Hunting. Brings 6 [[Sixpence]]

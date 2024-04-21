@@ -15,3 +15,7 @@ Certain knowledge is forbidden to mortals… except in nine great libraries prot
 ## Uses
 
 This skill is useful against [[Theoplasmic Contamination]].
+
+## Notes
+
+These inks are meant to preserve. To conserve. To remember. Whatever is written with these inks may not die or be forgotten about.
