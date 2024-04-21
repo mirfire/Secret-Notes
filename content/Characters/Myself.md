@@ -29,14 +29,19 @@ René after the War
 
 After the war, I made my way back with my family to my village. It was no longer there. Only ruins, craters, bodies, shells. The church was razed, the castle was bombed. I stayed there, helped rebuild the village as much as I could.
 
-I stayed there for a few years. We rebuilt the houses of the people and families that came back, the townshall, the school and the church. The pay was meager, but I had food and a bed. I took the time to try and recover from the horrors I have witnessed during the war. I realized how lucky I was to have survived relatively unscathed from the butchery that was that war. And how the dozens of comrades I've lived and fought with were not so lucky.
+I stayed there for a year or so. We rebuilt the houses of the people and families that came back, the townshall, the school and the church. The pay was meager, but I had food and a bed. I took the time to try and recover from the horrors I have witnessed during the war. I realized how lucky I was to have survived relatively unscathed from the butchery that was that war. And how the dozens of comrades I've lived and fought with were not so lucky.
 
 Once the village was mostly rebuilt, I left, and roamed around the northern parts of France, helping wherever I could. I've helped rebuild whole villages and some cities. But working and building cemeteries was the most peaceful experiences. There, I could lay the Fallen to rest. Help reunite families with their dead. Sometimes I felt like it should have been me in those tombs... But the sort decided I would have a longer future.
+
+### Studies
+
+I was never much of a scholar. But as the reconstruction was progressing further and further, I found myself with more and more time for myself. Which I used to explore ruins, finding all sorts of oddities. I  stumbled upon strange books and writings.
 
 ## Parts of My Soul
 
 * [[Kull]]: The strongest part of my soul
 * [[Setre]]: The awakening part of my soul
+* [[Wist]]: The lingering part of my soul
 * [[Kull]]: From my link to [[Valitri's Character]]
 
 ## My Skills
@@ -58,4 +63,4 @@ I am part of the Ethos Synod. We aspire to something greater.
 
 ## My Connections
 
-I am irrevocably linked to [[Valitri's Character]] and [[Vonte's Character]].
+I am irrevocably linked to [[Valitri's Character]] and [[Vonte's Character]]. I can help [[Valitri's Character]] through the [[Soul Mirror]], and [[Vonte's Character]] can help me through it too.
