@@ -9,43 +9,9 @@ This is a website compiling the notes from a custom Secret Histories TTRPG Campa
 - [[Myself]] : My Character
 - [[Characters/]]
 
-## Elements of the Soul
+## Useful Links
 
-- [[Chor]]
-- [[Ereb]]
-- [[Fet]]
-- [[Health]]
-- [[Kull]]
-- [[Mettle]]
-- [[Phost]]
-- [[Setre]]
-- [[Shapt]]
-- [[Trist]]
-- [[Wist]]
-
-## Principles
-
-- [[Edge]]
-- [[Forge]]
-- [[Grail]]
-- [[Heart]]
-- [[Knock]]
-- [[Lantern]]
-- [[Moon]]
-- [[Moth]]
-- [[Nectar]]
-- [[Rose]]
-- [[Scale]]
-- [[Sky]]
-- [[Winter]]
-
-## Wisdoms
-
-- [[Birdsong]]
-- [[Horomachistry]]
-- [[Hushery]]
-- [[Illumination]]
-- [[Ithastry]]
-- [[Nyctodromy]]
-- [[Preservation]]
-- [[Skolekosophy]]
+- [[tags/Wisdom|Wisdoms]]
+- [[tags/Element|Elements of the Soul]]
+- [[tags/Principle|Principles]]
+- [[tags/Book|Books]]
