@@ -43,7 +43,9 @@ I was never much of a scholar. But as the reconstruction was progressing further
 * [[Setre]]: The awakening part of my soul
 * [[Wist]]: The lingering part of my soul
 * [[Kull]]: From my link to [[Valitri's Character]]
-
+* [[Mettle]] : Obtained by committing my [[Inks of Containment]] to [[Horomachistry]]
+* [[Shapt]] : Obtained by committing my [[Horns and Ivories]] to [[Skolekosophy]]
+ 
 ## My Skills
 
 * [[Horns and Ivories]]
