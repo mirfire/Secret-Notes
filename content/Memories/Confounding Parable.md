@@ -1,6 +1,6 @@
 ---
 tags:
-  - Memory/Confounding6Parable
+  - Memory/Confounding-Parable
   - Principle/Moon
   - Principle/Rose
   - Principle/Sky
