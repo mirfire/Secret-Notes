@@ -1,7 +1,6 @@
 ---
 tags:
   - Memory/Taste
-
   - Principle/Grail
 ---
 
