@@ -40,11 +40,17 @@ I was never much of a scholar. But as the reconstruction was progressing further
 ## Parts of My Soul
 
 * [[Kull]]: The strongest part of my soul
+	* 1 Natural
+	* 1 From my link to [[Valitri's Character]]
 * [[Setre]]: The awakening part of my soul
+	* 1 Natural
+	* 1 Obtained by committing my [[Furs and Feathers]] to [[Nyctodromy]]
 * [[Wist]]: The lingering part of my soul
-* [[Kull]]: From my link to [[Valitri's Character]]
-* [[Mettle]] : Obtained by committing my [[Inks of Containment]] to [[Horomachistry]]
-* [[Shapt]] : Obtained by committing my [[Horns and Ivories]] to [[Skolekosophy]]
+	* 1 Natural
+* [[Mettle]]
+	* 1 Obtained by committing my [[Inks of Containment]] to [[Horomachistry]]
+* [[Shapt]]
+	* 1 Obtained by committing my [[Horns and Ivories]] to [[Skolekosophy]]
  
 ## My Skills
 
