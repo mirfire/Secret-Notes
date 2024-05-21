@@ -1,5 +1,6 @@
 ---
-tags:  - Knock
+tags:
+  - Knock
   - Scale
   - Wisdom/The-Bosk
   - Wisdom/Skolekosophy
