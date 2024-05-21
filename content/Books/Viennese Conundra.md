@@ -2,7 +2,7 @@
 tags:
   - Book
   - Solved
-  - Principle/Moon
+  - Moon
   - Memory/Fear
 ---
 

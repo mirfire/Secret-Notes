@@ -1,8 +1,9 @@
 ---
 tags:
-  - Element/Kull
-  - Principle/Scale
-  - Principle/Winter
+  - Element
+  - Kull
+  - Scale
+  - Winter
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Elements of the Soul/files/undiscovered.png" width=150 width=100 style="margin:0" /></div>

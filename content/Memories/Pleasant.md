@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Pleasant
-  - Principle/Nectar
-  - Principle/Grail
+  - Nectar
+  - Grail
 ---
 **[[Nectar]]** 2, **[[Grail]]** 1
 ## Obtained by

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Principle/Moon
-  - Principle/Scale
+  - Moon
+  - Scale
 ---
 
 > Sometimes we eat the wolf, and sometimes the wolf eats us.

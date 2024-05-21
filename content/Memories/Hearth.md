@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Hearth
-  - Principle/Forge
-  - Principle/Lantern
+  - Forge
+  - Lantern
 ---
 
 **[[Forge]]** 3, **[[Lantern]]** 2

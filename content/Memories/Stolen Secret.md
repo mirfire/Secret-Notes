@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Stolen-Secret
-  - Principle/Nectar
-  - Principle/Grail
+  - Nectar
+  - Grail
 ---
 
 **[[Moon]]** 2, **[[Knock]]** 1

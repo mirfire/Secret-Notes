@@ -1,7 +1,7 @@
 ---
 tags:
   - Book
-  - Principle/Lantern
+  - Lantern
 ---
 
 Challenge: **[[Lantern]]** 8

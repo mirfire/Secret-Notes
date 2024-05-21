@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Revelation
-  - Principle/Nectar
-  - Principle/Grail
+  - Nectar
+  - Grail
 ---
 **[[Lantern]]** 2, **[[Forge]]** 1
 ## Obtained by

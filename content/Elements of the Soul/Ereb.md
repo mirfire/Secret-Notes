@@ -1,8 +1,9 @@
 ---
 tags:
-  - Element/Ereb
-  - Principle/Grail 
-  - Principle/Edge 
+  - Element
+  - Ereb
+  - Grail 
+  - Edge 
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Elements of the Soul/files/ereb.png" width=150 width=100 style="margin:0" /></div>

@@ -1,7 +1,7 @@
 ---
 tags:
   - Memory/Sound
-  - Principle/Heart
+  - Heart
 ---
 **[[Heart]]** 1
 ## Obtained by

@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Regret
-  - Principle/Winter
-  - Principle/Forge
+  - Winter
+  - Forge
 ---
 
 **[[Winter]]** 2, **[[Forge]]** 1

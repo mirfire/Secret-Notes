@@ -1,7 +1,7 @@
 ---
 tags:
-  - Principle/Winter
-  - Principle/Moon
+  - Winter
+  - Moon
   - Wisdom/Preservation
   - Wisdom/Horomachistry
   - Committed

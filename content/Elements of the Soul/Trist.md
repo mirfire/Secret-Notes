@@ -1,8 +1,9 @@
 ---
 tags:
-  - Element/Trist
-  - Principle/Moth
-  - Principle/Moon
+  - Element
+  - Trist
+  - Moth
+  - Moon
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Elements of the Soul/files/trist.png" width=150 width=100 style="margin:0" /></div>

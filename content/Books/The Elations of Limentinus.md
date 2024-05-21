@@ -1,7 +1,7 @@
 ---
 tags:
   - Book
-  - Principle/Knock
+  - Knock
 ---
 
 Challenge: **[[Knock]]** 6

@@ -1,7 +1,7 @@
 ---
 tags:
   - Memory/Taste
-  - Principle/Grail
+  - Grail
 ---
 
 **[[Grail]]** 1

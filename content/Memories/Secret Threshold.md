@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Secret-Threshold
-  - Principle/Rose
-  - Principle/Edge
+  - Rose
+  - Edge
 ---
 
 **[[Edge]]** 2,**[[Rose]]** 1,

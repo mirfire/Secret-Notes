@@ -1,8 +1,8 @@
 ---
 tags:
   - Influence/Triumphant
-  - Principle/Lantern
-  - Principle/Forge
+  - Lantern
+  - Forge
 ---
 
 **[[Lantern]]** 4, **[[Forge]]** 2

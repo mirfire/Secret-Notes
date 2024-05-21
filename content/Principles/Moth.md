@@ -1,6 +1,7 @@
 ---
 tags:
-  - Principle/Moth
+  - Principle
+  - Moth
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Principles/files/moth.png" width=100 style="margin:0" /></div>

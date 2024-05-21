@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Gossip
-  - Principle/Rose
-  - Principle/Grail
+  - Rose
+  - Grail
 ---
 
 **[[Rose]]** 2, **[[Grail]]** 1

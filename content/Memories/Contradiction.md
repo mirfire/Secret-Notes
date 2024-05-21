@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Contradiction
-  - Principle/Edge
-  - Principle/Moon
+  - Edge
+  - Moon
 ---
 
 **[[Edge]]** 2,**[[Moon]]** 1,

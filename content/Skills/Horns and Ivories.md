@@ -1,7 +1,6 @@
 ---
-tags:
-  - Principle/Knock
-  - Principle/Scale
+tags:  - Knock
+  - Scale
   - Wisdom/The-Bosk
   - Wisdom/Skolekosophy
   - Committed

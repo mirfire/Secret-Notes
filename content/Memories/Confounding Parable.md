@@ -1,9 +1,9 @@
 ---
 tags:
   - Memory/Confounding-Parable
-  - Principle/Moon
-  - Principle/Rose
-  - Principle/Sky
+  - Moon
+  - Rose
+  - Sky
 ---
 
 **[[Moon]]** 2, **[[Rose]]** 2, **[[Sky]]** 2

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Principle/Sky
-  - Principle/Scale
+  - Sky
+  - Scale
   - Wisdom/The-Bosk
   - Wisdom/Nyctodromy
   - Committed

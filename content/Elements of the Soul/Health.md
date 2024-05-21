@@ -1,8 +1,9 @@
 ---
 tags:
-  - Element/Health
-  - Principle/Nectar
-  - Principle/Scale
+  - Element
+  - Health
+  - Nectar
+  - Scale
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Elements of the Soul/files/health.png" width=150 width=100 style="margin:0" /></div>

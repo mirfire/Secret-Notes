@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Fleeting-Reminiscence
-  - Principle/Moth
-  - Principle/Rose
+  - Moth
+  - Rose
 ---
 
 **[[Moth]]** 2, **[[Rose]]** 1

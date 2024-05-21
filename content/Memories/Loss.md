@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Loss
-  - Principle/Edge
-  - Principle/Winter
+  - Edge
+  - Winter
 ---
 
 **[[Edge]]** 1,**[[Winter]]** 1,

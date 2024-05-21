@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Vitality
-  - Principle/Heart
-  - Principle/Nectar
+  - Heart
+  - Nectar
 ---
 
 **[[Heart]]** 3,**[[Nectar]]** 2,

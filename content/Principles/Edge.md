@@ -1,6 +1,7 @@
 ---
 tags:
-  - Principle/Edge
+  - Principle
+  - Edge
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Principles/files/edge.png" width=100 style="margin:0" /></div>

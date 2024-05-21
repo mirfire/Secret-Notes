@@ -1,8 +1,8 @@
 ---
 tags:
   - Influence/A-Rising-Heat
-  - Principle/Forge
-  - Principle/Scale
+  - Forge
+  - Scale
 ---
 
 **[[Forge]]** 2, **[[Scale]]** 1

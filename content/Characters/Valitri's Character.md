@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#Player/Valitri"
+  - Player/Valitri
 ---
 
 I do not know this person yet.

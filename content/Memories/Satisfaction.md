@@ -1,8 +1,8 @@
 ---
 tags:
   - Memory/Satisfaction
-  - Principle/Grail
-  - Principle/Heart
+  - Grail
+  - Heart
 ---
 
 **[[Grail]]** 2, **[[Heart]]** 1

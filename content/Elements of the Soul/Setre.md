@@ -1,8 +1,9 @@
 ---
 tags:
-  - Element/Setre
-  - Principle/Moon
-  - Principle/Sky
+  - Element
+  - Setre
+  - Moon
+  - Sky
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Elements of the Soul/files/undiscovered.png" width=150 width=100 style="margin:0" /></div>

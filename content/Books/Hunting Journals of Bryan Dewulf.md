@@ -2,7 +2,7 @@
 tags:
   - Book
   - Solved
-  - Principle/Scale
+  - Scale
   - Memory/Fear
 ---
 
