@@ -1,6 +1,7 @@
 ---
 tags:
-  - Influence/Triumphant
+  - Influence
+  - Triumphant
   - Lantern
   - Forge
 ---

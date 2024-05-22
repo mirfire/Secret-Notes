@@ -1,6 +1,7 @@
 ---
 tags:
-  - Wisdom/Illumination
+  - Wisdom
+  - Illumination
 ---
 <div style="float: right; padding-left: 10px;"><img src="/Wisdoms/files/w.illumination.png" width=100 width=100 style="margin:0" /></div>
 

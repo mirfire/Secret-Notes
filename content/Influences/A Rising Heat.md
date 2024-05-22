@@ -1,6 +1,7 @@
 ---
 tags:
-  - Influence/A-Rising-Heat
+  - Influence
+  - A-Rising-Heat
   - Forge
   - Scale
 ---

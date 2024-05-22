@@ -1,6 +1,7 @@
 ---
 tags:
-  - Wisdom/Nyctodromy
+  - Wisdom
+  - Nyctodromy
 ---
 
 <div style="float: right; padding-left: 10px;"><img src="/Wisdoms/files/w.nyctodromy.png" width=100 width=100 style="margin:0" /></div>

@@ -2,8 +2,8 @@
 tags:
   - Winter
   - Moon
-  - Wisdom/Preservation
-  - Wisdom/Horomachistry
+  - Preservation
+  - Horomachistry
   - Committed
 ---
 

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Influence/Fascination
+  - Influence
+  - Fascination
   - Forge
   - Lantern
 ---

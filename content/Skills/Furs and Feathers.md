@@ -2,8 +2,8 @@
 tags:
   - Sky
   - Scale
-  - Wisdom/The-Bosk
-  - Wisdom/Nyctodromy
+  - The-Bosk
+  - Nyctodromy
   - Committed
 ---
 

@@ -14,4 +14,4 @@ tags:
 
 8 **[[Scale]]** Challenge.
 
-Gives [[Fear|Memory: Fear]] when read. Unlocked the [[???]] skill.
+Gives [[Memory-Fear|Memory: Fear]] when read. Unlocked the [[???]] skill.

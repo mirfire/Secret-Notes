@@ -2,8 +2,8 @@
 tags:
   - Knock
   - Scale
-  - Wisdom/The-Bosk
-  - Wisdom/Skolekosophy
+  - The-Bosk
+  - Skolekosophy
   - Committed
 ---
 
