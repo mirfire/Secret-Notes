@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Fleeting-Reminiscence
+  - Memory
+  - Fleeting-Reminiscence
   - Moth
   - Rose
 ---

@@ -1,6 +1,8 @@
 ---
+title: "Memory: Sound"
 tags:
-  - Memory/Sound
+  - Memory
+  - Memory-Sound
   - Heart
 ---
 **[[Heart]]** 1

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Stolen-Secret
+  - Memory
+  - Stolen-Secret
   - Nectar
   - Grail
 ---

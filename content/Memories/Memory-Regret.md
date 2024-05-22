@@ -1,6 +1,8 @@
 ---
+title: "Memory: Regret"
 tags:
-  - Memory/Regret
+  - Memory
+  - Memory-Regret
   - Winter
   - Forge
 ---

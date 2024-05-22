@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Intuition
+  - Memory
+  - Intuition
   - Moon
   - Rose
 ---

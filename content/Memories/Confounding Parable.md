@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Confounding-Parable
+  - Memory
+  - Confounding-Parable
   - Moon
   - Rose
   - Sky

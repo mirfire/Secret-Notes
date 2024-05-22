@@ -3,7 +3,7 @@ tags:
   - Book
   - Solved
   - Moon
-  - Memory/Fear
+  - Memory-Fear
 ---
 
 4 **[[Moon]]** Challenge.

@@ -1,6 +1,8 @@
 ---
+title: "Memory: Loss"
 tags:
-  - Memory/Loss
+  - Memory
+  - Memory-Loss
   - Edge
   - Winter
 ---

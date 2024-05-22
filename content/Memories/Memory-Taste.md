@@ -1,6 +1,8 @@
 ---
+title: "Memory: Taste"
 tags:
-  - Memory/Taste
+  - Memory
+  - Memory-Taste
   - Grail
 ---
 

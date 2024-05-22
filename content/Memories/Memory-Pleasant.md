@@ -1,6 +1,8 @@
 ---
+title: "Memory: Pleasant"
 tags:
-  - Memory/Pleasant
+  - Memory
+  - Memory-Pleasant
   - Nectar
   - Grail
 ---

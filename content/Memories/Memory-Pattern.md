@@ -1,6 +1,8 @@
 ---
+title: "Memory: Pattern"
 tags:
-  - Memory/Pattern
+  - Memory
+  - Memory-Pattern
   - Knock
   - Forge
 ---

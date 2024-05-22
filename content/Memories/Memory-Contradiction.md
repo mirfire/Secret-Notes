@@ -1,6 +1,8 @@
 ---
+title: "Memory: Contradiction"
 tags:
-  - Memory/Contradiction
+  - Memory
+  - Memory-Contradiction
   - Edge
   - Moon
 ---

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Secret-Threshold
+  - Memory
+  - Secret-Threshold
   - Rose
   - Edge
 ---

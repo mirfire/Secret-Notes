@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Tinge
+  - Memory
+  - Tinge
   - Knock
   - Winter
   - Moon

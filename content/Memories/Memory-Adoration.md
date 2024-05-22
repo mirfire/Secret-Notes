@@ -1,6 +1,8 @@
 ---
+title: "Memory: Adoration"
 tags:
-  - Memory/Adoration
+  - Memory
+  - Memory-Adoration
   - Moth
   - Grail
 ---

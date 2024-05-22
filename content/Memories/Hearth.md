@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Hearth
+  - Memory
+  - Hearth
   - Forge
   - Lantern
 ---

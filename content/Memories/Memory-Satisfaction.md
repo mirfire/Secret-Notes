@@ -1,6 +1,8 @@
 ---
+title: "Memory: Satisfaction"
 tags:
-  - Memory/Satisfaction
+  - Memory
+  - Memory-Satisfaction
   - Grail
   - Heart
 ---

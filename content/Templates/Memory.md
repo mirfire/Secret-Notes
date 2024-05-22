@@ -38,7 +38,8 @@
 _%>
 ---
 tags:
-  - Memory/<% memoryNameTag %>
+  - Memory
+  - <% memoryNameTag %>
 <% principleTags %>
 ---
 

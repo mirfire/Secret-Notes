@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Vitality
+  - Memory
+  - Vitality
   - Heart
   - Nectar
 ---

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Memory/Foresight
+  - Memory
+  - Foresight
   - Forge
   - Lantern
 ---

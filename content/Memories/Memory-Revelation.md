@@ -1,6 +1,8 @@
 ---
+title: "Memory: Revelation"
 tags:
-  - Memory/Revelation
+  - Memory
+  - Memory-Revelation
   - Nectar
   - Grail
 ---

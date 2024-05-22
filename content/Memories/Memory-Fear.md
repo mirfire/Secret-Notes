@@ -1,6 +1,8 @@
 ---
+title: "Memory: Fear"
 tags:
-  - Memory/Fear
+  - Memory
+  - Memory-Fear
   - Nectar
   - Grail
 ---

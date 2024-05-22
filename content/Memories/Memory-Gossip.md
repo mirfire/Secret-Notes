@@ -1,6 +1,8 @@
 ---
+title: "Memory: Gossip"
 tags:
-  - Memory/Gossip
+  - Memory
+  - Memory-Gossip
   - Rose
   - Grail
 ---

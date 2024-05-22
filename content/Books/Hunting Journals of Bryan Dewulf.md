@@ -3,7 +3,7 @@ tags:
   - Book
   - Solved
   - Scale
-  - Memory/Fear
+  - Memory-Fear
 ---
 
 > Bryan Dewulf, the son of the 3rd Baron Brancrug, gives advice on hunting in the Bounds.
